@@ -1,4 +1,4 @@
-package com.zero.snippet;
+package com.zero.java.java.snippet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
